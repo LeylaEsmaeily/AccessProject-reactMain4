@@ -1,0 +1,21 @@
+{
+  "short_name": "Dastresi",
+  "name": "فروشگاه اینترنتی دسترسی",
+  "icons": [
+    {
+      "src": "https://s34.picofile.com/file/8487011634/192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://s34.picofile.com/file/8487011642/512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/AccessProject-reactMain/#/",
+  "display": "standalone",
+  "theme_color": "#EC5C53",
+  "background_color": "#FFFFFF",
+  "orientation": "portrait-primary"
+}
